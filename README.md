@@ -36,7 +36,7 @@ Each lab combines concepts from multiple chapters/days into a single practical s
 
 ## 🎥 Screen Recordings
 
-Each lab is paired with a short screen recording walking through the commands live — linked inside each lab's individual README.
+Each lab includes a terminal screen recording showing the commands being executed live and the actual output produced — linked inside each lab's individual README.
 
 ---
 
