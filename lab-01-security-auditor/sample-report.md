@@ -30,28 +30,28 @@ No output captured — ss/netstat command may not have returned results on this 
 
 ## 4. Hardware Resources Snapshot
 
-Filesystem                 Size            Used             Avail                   Use%                Mounted on
+Filesystem-----------------Size------------Used-------------Avail-------------------Use%----------------Mounted on
 
-/dev/root                  19G             2.8G             16G                     16%                 /
+/dev/root------------------19G-------------2.8G-------------16G---------------------16%-----------------/
 
-tmpfs                      455M            0                455M                    0%                  /dev/shm
+tmpfs----------------------455M------------0----------------455M--------------------0%-----------------/dev/shm
 
-tmpfs                      182M            960K             181M                    1%                  /run
+tmpfs----------------------182M------------960K-------------181M--------------------1%-----------------/run
 
-efivarfs 128K 3.1K 120K 3% /sys/firmware/efi/efivars
+efivarfs-------------------128K------------3.1K-------------120K--------------------3%-----------------/sys/firmware/efi/efivars
 
-tmpfs 455M 0 455M 0% /tmp
+tmpfs----------------------455M------------0----------------455M--------------------0%-----------------/tmp
 
-/dev/nvme0n1p13 989M 164M 759M 18% /boot
+/dev/nvme0n1p13------------989M------------164M-------------759M--------------------18%----------------/boot
 
-/dev/nvme0n1p15 105M 6.3M 99M 7% /boot/efi
+/dev/nvme0n1p15------------105M------------6.3M-------------99M---------------------7%-----------------/boot/efi
 
-none 1.0M 0 1.0M 0% /run/credentials/getty@tty1.service
+none-----------------------1.0M------------0----------------1.0M--------------------0%-----------------/run/credentials/getty@tty1.service
 
-none 1.0M 0 1.0M 0% /run/credentials/serial-getty@ttyS0.service
+none-----------------------1.0M------------0----------------1.0M--------------------0%-----------------/run/credentials/serial-getty@ttyS0.service
 
-none 1.0M 0 1.0M 0% /run/credentials/systemd-resolved.service
+none-----------------------1.0M------------0----------------1.0M--------------------0%-----------------/run/credentials/systemd-resolved.service
 
-none 1.0M 0 1.0M 0% /run/credentials/systemd-journald.service
+none-----------------------1.0M------------0----------------1.0M--------------------0%-----------------/run/credentials/systemd-journald.service
 
-none 1.0M 0 1.0M 0% /run/credentials/systemd-networkd.service
+none-----------------------1.0M------------0----------------1.0M--------------------0%-----------------/run/credentials/systemd-networkd.service
