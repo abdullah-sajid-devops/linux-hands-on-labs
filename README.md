@@ -25,6 +25,7 @@ Each lab combines concepts from multiple chapters/days into a single practical s
 ## 📂 Labs
 
 | Lab | Title | Concepts Covered | Status |
+
 | 01 | Server Security & Health Auditor | Bash scripting, permissions, networking, user audit | [View Lab](lab-01-security-auditor/) | ✅ |
 
 *(Each lab has its own folder with a README containing the commands used, explanations, and a link to the screen recording where available.)*
