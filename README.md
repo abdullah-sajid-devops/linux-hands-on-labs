@@ -25,8 +25,7 @@ Each lab combines concepts from multiple chapters/days into a single practical s
 ## 📂 Labs
 
 | Lab | Title | Concepts Covered | Status |
-|---|---|---|---|
-| 01 | System Explorer | File system navigation, FHS structure, disk usage (`df`, `du`, `lsblk`, `find`, `locate`) | 🏗️ |
+|---|---|---|---|| 01 | Server Security & Health Auditor | Bash scripting, permissions, networking, user audit | [View Lab](lab-01-security-auditor/) | ✅ |
 | 02 | Permissions & User Lab | User/group creation, `chmod`, `chown`, `chgrp`, permission verification | 🏗️ |
 | 03 | Command Line Power Moves | Globbing/wildcards, `cp -r`, aliases, functions, `&&` / `\|\|` operators | 🏗️ |
 
