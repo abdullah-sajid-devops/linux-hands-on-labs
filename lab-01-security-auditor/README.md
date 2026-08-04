@@ -14,7 +14,5 @@ chmod +x audit_server.sh
 ./audit_server.sh
 ```
 
-See [sample-report.md](sample-report.md) for example output.
-
 ## License
 MIT — see [LICENSE](LICENSE)
