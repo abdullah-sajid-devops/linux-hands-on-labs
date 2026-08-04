@@ -25,9 +25,7 @@ Each lab combines concepts from multiple chapters/days into a single practical s
 ## 📂 Labs
 
 | Lab | Title | Concepts Covered | Status |
-|---|---|---|---|| 01 | Server Security & Health Auditor | Bash scripting, permissions, networking, user audit | [View Lab](lab-01-security-auditor/) | ✅ |
-| 02 | Permissions & User Lab | User/group creation, `chmod`, `chown`, `chgrp`, permission verification | 🏗️ |
-| 03 | Command Line Power Moves | Globbing/wildcards, `cp -r`, aliases, functions, `&&` / `\|\|` operators | 🏗️ |
+| 01 | Server Security & Health Auditor | Bash scripting, permissions, networking, user audit | [View Lab](lab-01-security-auditor/) | ✅ |
 
 *(Each lab has its own folder with a README containing the commands used, explanations, and a link to the screen recording where available.)*
 
