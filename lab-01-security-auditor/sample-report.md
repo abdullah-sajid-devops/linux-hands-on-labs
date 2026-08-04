@@ -30,13 +30,13 @@ No output captured — ss/netstat command may not have returned results on this 
 
 ## 4. Hardware Resources Snapshot
 
-Filesystem Size Used Avail Use% Mounted on
+Filesystem                 Size            Used             Avail                   Use%                Mounted on
 
-/dev/root 19G 2.8G 16G 16% /
+/dev/root                  19G             2.8G             16G                     16%                 /
 
-tmpfs 455M 0 455M 0% /dev/shm
+tmpfs                      455M            0                455M                    0%                  /dev/shm
 
-tmpfs 182M 960K 181M 1% /run
+tmpfs                      182M            960K             181M                    1%                  /run
 
 efivarfs 128K 3.1K 120K 3% /sys/firmware/efi/efivars
 
