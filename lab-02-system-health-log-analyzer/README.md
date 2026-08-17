@@ -48,7 +48,7 @@ See [log-analyzer.sh](log-analyzer.sh) for the full script.
 ## 🎥 Demo
 
 A screen recording of both scripts running live is linked in the corresponding LinkedIn post.
-
+Linkedin: https://lnkd.in/p/dia6puK3
 ## Reflection
 
 Both scripts were first understood with guidance, then rebuilt and tested independently to confirm real understanding — not just copy-pasted code. This is the first step toward writing automation scripts from scratch without assistance.
