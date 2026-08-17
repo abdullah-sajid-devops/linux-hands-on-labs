@@ -1,6 +1,6 @@
 # 🧪 Linux Hands-On Labs
 
-Practical, project-based labs built while working through my [Linux SysAdmin Journey](../linux-sysadmin-journey) — this repo is where daily learning gets applied to real, hands-on exercises instead of just staying in notes.
+Practical, project-based labs built while working through my [Linux SysAdmin Journey](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey) — this repo is where daily learning gets applied to real, hands-on exercises instead of just staying in notes.
 
 Each lab combines concepts from multiple chapters/days into a single practical scenario, tested live on an AWS EC2 instance.
 
@@ -25,10 +25,11 @@ Each lab combines concepts from multiple chapters/days into a single practical s
 ## 📂 Labs
 
 | Lab | Title | Concepts Covered | Status |
+|---|---|---|---|
+| 01 | [Server Security & Health Auditor](lab-01-security-auditor/) | Bash scripting, permissions, user audit, networking, disk/hardware monitoring | ✅ |
+| 02 | [System Health Auditor & Log Analyzer](lab-02-system-health-log-analyzer/) | Command substitution, `awk`/`sed` text extraction, `grep` pattern matching, `if/else` conditional logic | ✅ |
 
-| 01 | Server Security & Health Auditor | Bash scripting, permissions, networking, user audit | [View Lab](lab-01-security-auditor/) | ✅ |
-
-*(Each lab has its own folder with a README containing the commands used, explanations, and a link to the screen recording where available.)*
+*(Each lab has its own folder with a README containing the commands/scripts used, explanations, and a link to the screen recording where available.)*
 
 ---
 
@@ -40,5 +41,5 @@ Each lab includes a terminal screen recording showing the commands being execute
 
 ## 🔗 Related Repositories
 
-- [linux-sysadmin-journey](#) — daily learning log, 100-day DevOps & Cloud challenge
-- linux-command-reference — categorized Linux command cheatsheet *(coming soon)*
+- [Linux SysAdmin Journey](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey) — daily learning log, 100-day DevOps & Cloud challenge
+- [Certifications](https://github.com/abdullah-sajid-devops/certifications) — certificates & badges earned along the way
