@@ -24,22 +24,15 @@ Each lab combines concepts from multiple chapters/days into a single practical s
 
 ## 📂 Labs
 
-| Lab | Title | Concepts Covered | Status |
-|---|---|---|---|
-| 01 | [Server Security & Health Auditor](lab-01-security-auditor/) | Bash scripting, permissions, user audit, networking, disk/hardware monitoring | ✅ |
-| 02 | [System Health Auditor & Log Analyzer](lab-02-system-health-log-analyzer/) | Command substitution, `awk`/`sed` text extraction, `grep` pattern matching, `if/else` conditional logic | ✅ |
-
-*(Each lab has its own folder with a README containing the commands/scripts used, explanations, and a link to the screen recording where available.)*
-
----
-
-## 🎥 Screen Recordings
-
-Each lab includes a terminal screen recording showing the commands being executed live and the actual output produced — linked inside each lab's individual README.
+| Lab | Title | Concepts Covered |
+|---|---|---|
+| 01 | [System Health Monitor](lab-01-system-health-monitor/) | Command substitution, `awk`/`sed` text extraction, disk/memory monitoring, `if/else` conditional logic |
+| 02 | [Log Analyzer](lab-02-log-analyzer/) | `grep` pattern matching, `wc -l` counting, `if/else` conditional logic |
 
 ---
 
 ## 🔗 Related Repositories
 
 - [Linux SysAdmin Journey](https://github.com/abdullah-sajid-devops/linux-sysadmin-journey) — daily learning log, 100-day DevOps & Cloud challenge
+- [Server Security & Health Auditor](https://github.com/abdullah-sajid-devops/server-security-auditor) — standalone automated audit tool
 - [Certifications](https://github.com/abdullah-sajid-devops/certifications) — certificates & badges earned along the way
